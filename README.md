@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KindaRusty
+- 👀 I’m interested in coding and learning new things that require critical thinking like solving hard maths problem, analysis statistics...
+- 🌱 I’m currently learning HTML and Python ...
+- 📫 Dm me on discord **KindaRusty#6969** for more infos...
+
+<!---
+KindaRusty/KindaRusty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
