@@ -17,7 +17,7 @@ I'm a first-year **Computer Science** student at **Swinburne Vietnam (Da Nang Ca
 
 - 🎓 First-year student at **Swinburne Vietnam (Danang Campus)**.
 - 💡 Passionate about coding, critical thinking, and challenging myself with complex problems.
-- 🌱 My goal is to build a strong foundation in software development and explore various fields within Computer Science.
+- 🌱 My goal is to build a strong foundation in Artìical Intelligence and explore various fields within Computer Science.
 
 ---
 
