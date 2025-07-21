@@ -9,19 +9,19 @@
 
 <br/>
 
-Mình là sinh viên năm nhất ngành **Khoa học Máy tính** tại **Swinburne Việt Nam (cơ sở Đà Nẵng)** với đam mê lập trình và giải quyết vấn đề.
+I'm a first-year **Computer Science** student at **Swinburne Vietnam (Da Nang Campus)**, passionate about programming and problem-solving.
 
 ---
 
-### 👨‍💻 Về bản thân
+### 👨‍💻 About Me
 
-- 🎓 Hiện đang là sinh viên năm nhất tại **Swinburne Vietnam (Danang Campus)**.
-- 💡 Yêu thích lập trình, tư duy phản biện và thử thách bản thân với các bài toán khó.
-- 🌱 Mục tiêu của mình là xây dựng nền tảng vững chắc về phát triển phần mềm và khám phá các lĩnh vực khác nhau của Khoa học Máy tính.
+- 🎓 First-year student at **Swinburne Vietnam (Danang Campus)**.
+- 💡 Passionate about coding, critical thinking, and challenging myself with complex problems.
+- 🌱 My goal is to build a strong foundation in software development and explore various fields within Computer Science.
 
 ---
 
-### 🛠️ Ngôn ngữ và Công cụ
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -43,18 +43,26 @@ Mình là sinh viên năm nhất ngành **Khoa học Máy tính** tại **Swinbu
 
 ---
 
-### 🎮 Sở thích
+### 🌐 Languages
 
-- **Gaming:** Là một người chơi nhiệt tình của **Valorant**, **Genshin Impact** và các tựa game khác từ **miHoYo**.
-- **Giải trí:** Thích xem phim và khám phá những câu chuyện mới.
+- 🇻🇳 **Vietnamese:** Native
+- 🇺🇸 **English:** Proficient in communication.
+- 🇯🇵 **Japanese:** Currently learning, aiming for JLPT N3.
 
 ---
 
-### 📫 Kết nối với mình
+### 🎮 Hobbies
+
+- **Gaming:** An enthusiastic player of **Valorant**, **Genshin Impact**, and other titles from **miHoYo**.
+- **Entertainment:** Enjoy watching movies and exploring new stories.
+
+---
+
+### 📫 Get In Touch
 
 <p align="left">
   <a href="https://discordapp.com/users/KindaRusty#6969">
     <img src="https://img.shields.io/badge/Discord-KindaRusty%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <!-- Thêm các mạng xã hội khác ở đây nếu muốn -->
+  <!-- Feel free to add other social links here -->
 </p>
