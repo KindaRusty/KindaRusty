@@ -9,7 +9,7 @@
 
 <br/>
 
-I'm a first-year **Computer Science** student at **Swinburne Vietnam (Da Nang Campus)**, passionate about programming and problem-solving.
+I'm a second-year **Computer Science** student at **Swinburne Vietnam (Da Nang Campus)**, passionate about programming and problem-solving.
 
 ---
 
