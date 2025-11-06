@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm KindaRusty!
+### Hi there, I'm KindaRusty!
 
 <a href="https://github.com/KindaRusty">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KindaRusty&show_icons=true&theme=tokyonight&rank_icon=github" />
@@ -15,13 +15,13 @@ I'm a second-year **Computer Science** student at **Swinburne Vietnam (Da Nang C
 
 ### 👨‍💻 About Me
 
-- 🎓 First-year student at **Swinburne Vietnam (Danang Campus)**.
-- 💡 Passionate about coding, critical thinking, and challenging myself with complex problems.
-- 🌱 My goal is to build a strong foundation in Artìical Intelligence and explore various fields within Computer Science.
+- Second-year student at **Swinburne Vietnam (Danang Campus)**.
+- Passionate about coding, critical thinking, and challenging myself with complex problems.
+- My goal is to build a strong foundation in Artìical Intelligence and explore various fields within Computer Science.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -43,7 +43,7 @@ I'm a second-year **Computer Science** student at **Swinburne Vietnam (Da Nang C
 
 ---
 
-### 🌐 Languages
+### Languages
 
 - 🇻🇳 **Vietnamese:** Native
 - 🇺🇸 **English:** Proficient in communication.
@@ -51,7 +51,7 @@ I'm a second-year **Computer Science** student at **Swinburne Vietnam (Da Nang C
 
 ---
 
-### 🎮 Hobbies
+### Hobbies
 
 - **Gaming:** An enthusiastic player of **Valorant**, **Genshin Impact**, and other titles from **miHoYo**.
 - **Entertainment:** Enjoy watching movies and exploring new stories.
