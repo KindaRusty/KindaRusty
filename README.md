@@ -1,10 +1,10 @@
 ### Hi there, I'm KindaRusty!
 
 <a href="https://github.com/KindaRusty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KindaRusty&show_icons=true&theme=cobalt2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KindaRusty&show_icons=true&theme=cobalt2&cache_seconds=7200" />
 </a>
 <a href="https://github.com/KindaRusty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaRusty&layout=compact&theme=cobalt2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaRusty&layout=compact&theme=cobalt2&cache_seconds=7200" />
 </a>
 
 <br/>
