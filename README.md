@@ -1,67 +1,103 @@
-### Hi there, I'm KindaRusty!
+<div align="center">
 
-<a href="https://github.com/KindaRusty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KindaRusty&show_icons=true&theme=cobalt2&cache_seconds=7200" />
-</a>
-<a href="https://github.com/KindaRusty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaRusty&layout=compact&theme=cobalt2&cache_seconds=7200" />
-</a>
+# Hello, I'm KindaRusty!
 
-<br/>
+[![GitHub followers](https://img.shields.io/github/followers/KindaRusty?style=social)](https://github.com/KindaRusty)
+[![Discord](https://img.shields.io/badge/Discord-KindaRusty%236969-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/KindaRusty#6969)
 
-I'm a second-year **Computer Science** student at **Swinburne Vietnam (Da Nang Campus)**, passionate about programming and problem-solving.
+**Computer Science Student | AI Enthusiast | Problem Solver**
 
----
+Swinburne University of Technology, Da Nang Campus
 
-### 👨‍💻 About Me
-
-- Second-year student at **Swinburne Vietnam (Danang Campus)**.
-- Passionate about coding, critical thinking, and challenging myself with complex problems.
-- My goal is to build a strong foundation in Artìical Intelligence and explore various fields within Computer Science.
+</div>
 
 ---
 
-### Tech Stack
+## About Me
 
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-</p>
+Second-year Computer Science student with a passion for **Artificial Intelligence** and challenging programming problems. I thrive on building innovative solutions and exploring cutting-edge technologies.
+
+- Currently focusing on **AI algorithms** and **machine learning**
+- Building a strong foundation in Computer Science fundamentals
+- Always eager to tackle complex problems and learn new technologies
+- Goal: Become proficient in AI development and contribute to impactful projects
 
 ---
 
-### Languages
+## Tech Stack
 
-- 🇻🇳 **Vietnamese:** Native
-- 🇺🇸 **English:** Proficient in communication/working.
-- 🇯🇵 **Japanese:** Currently learning, aiming for JLPT N3.
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+**Web Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### Hobbies
+## 📊 GitHub Stats
 
-- **Gaming:** An enthusiastic player of **Delta Force**, **Honkai: Star Rail**, and other titles from **miHoYo**.
-- **Entertainment:** Enjoy watching movies and exploring new stories.
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KindaRusty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaRusty&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KindaRusty&theme=tokyonight&hide_border=true)](https://github.com/KindaRusty)
+
+</div>
 
 ---
 
-### 📫 Get In Touch
+## 🌐 Languages
 
-<p align="left">
-  <a href="https://discordapp.com/users/KindaRusty#6969">
-    <img src="https://img.shields.io/badge/Discord-KindaRusty%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  </p>
+| Language | Proficiency |
+|----------|-------------|
+| 🇻🇳 Vietnamese | Native |
+| 🇺🇸 English | Proficient (Professional working) |
+| 🇯🇵 Japanese | Learning (Target: JLPT N3) |
+
+---
+
+## 🎮 Interests & Hobbies
+
+- **Gaming:** Delta Force, Honkai: Star Rail, and other miHoYo titles
+- **Movies & Entertainment:** Exploring new stories and cinematic experiences
+- **Tech Exploration:** Experimenting with new frameworks and technologies
+- **Problem Solving:** Competitive programming and algorithm challenges
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/KindaRusty#6969)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KindaRusty)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+**Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
+
+</div>
