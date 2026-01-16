@@ -45,34 +45,17 @@ Second-year Computer Science student with a passion for **Artificial Intelligenc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KindaRusty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaRusty&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KindaRusty&theme=tokyonight&hide_border=true)](https://github.com/KindaRusty)
-
-</div>
-
----
-
-## 🌐 Languages
+## Languages
 
 | Language | Proficiency |
 |----------|-------------|
 | 🇻🇳 Vietnamese | Native |
 | 🇺🇸 English | Proficient (Professional working) |
-| 🇯🇵 Japanese | Learning (Target: JLPT N3) |
+| 🇯🇵 Japanese | Learning (Target: JLPT N4) |
 
 ---
 
-## 🎮 Interests & Hobbies
+## Interests & Hobbies
 
 - **Gaming:** Delta Force, Honkai: Star Rail, and other miHoYo titles
 - **Movies & Entertainment:** Exploring new stories and cinematic experiences
@@ -81,7 +64,7 @@ Second-year Computer Science student with a passion for **Artificial Intelligenc
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -90,14 +73,3 @@ Second-year Computer Science student with a passion for **Artificial Intelligenc
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-**Thanks for visiting! Feel free to explore my repositories and connect with me!** ⭐
-
-</div>
