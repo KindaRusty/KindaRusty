@@ -85,17 +85,8 @@ A full-stack web application for managing music events with complete user authen
 | Language | Proficiency |
 |----------|-------------|
 | 🇻🇳 Vietnamese | Native |
-| 🇺🇸 English | Proficient (Professional working) |
-| 🇯🇵 Japanese | Learning (Target: JLPT N4) |
-
----
-
-## Interests & Hobbies
-
-- **Gaming:** Delta Force, Honkai: Star Rail, and other miHoYo titles
-- **Movies & Entertainment:** Exploring new stories and cinematic experiences
-- **Tech Exploration:** Experimenting with new frameworks and technologies
-- **Problem Solving:** Competitive programming and algorithm challenges
+| 🇺🇸 English | Proficient (6.5 IELTS or 120 Duolingo) |
+| 🇯🇵 Japanese | Learning (Currently N5 aiming for N4) |
 
 ---
 
