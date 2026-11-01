@@ -3,7 +3,7 @@
 # Hello, I'm KindaRusty!
 
 [![GitHub followers](https://img.shields.io/github/followers/KindaRusty?style=social)](https://github.com/KindaRusty)
-[![Discord](https://img.shields.io/badge/Discord-kindarusty-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_NUMERIC_ID)
+[![Discord](https://img.shields.io/badge/Discord-kindarusty-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/902697307101884416)
 
 **Computer Science Student · AI Enthusiast · Problem Solver**
 
